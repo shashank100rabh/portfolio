@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: bisque;
+    color: blue;
+}
+.intro{
+    background-color: black;
+    color: white;
+}
+p{
+    color: red;
+}
+nav ul li{
+    display: inline;
+    margin-bottom: 5px;
+}
+ul li a {
+    text-decoration: none;
+    margin: 25px;
+    margin-bottom: 5px;
+}
